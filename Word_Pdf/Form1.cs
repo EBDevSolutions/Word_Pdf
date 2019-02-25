@@ -125,7 +125,7 @@ namespace Word_Pdf
                     };
                     XElement htmlElement = HtmlConverter.ConvertToHtml(wDoc, settings);
 
-                    // Produce HTML document with <!DOCTYPE html > declaration to tell the browser
+                    // Produce HTML document with <!DOCTYPE html > declaration to tell the browser 
                     // we are using HTML5.
                     var html = new XDocument(
                         new XDocumentType("html", null, null, null),
