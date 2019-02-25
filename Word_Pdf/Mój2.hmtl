@@ -1,0 +1,272 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta
+      charset="UTF-8" />
+    <title>My Page Title</title>
+    <meta
+      name="Generator"
+      content="PowerTools for Open XML" />
+    <style>span { white-space: pre-wrap; }
+h1.pt-Nagwek1 {
+    margin-top: 24pt;
+    margin-bottom: 24pt;
+    text-align: left;
+    font-family: 'Verdana', 'sans-serif';
+    font-size: 12pt;
+    line-height: 108%;
+    margin-left: 0;
+    margin-right: 0;
+}
+span.pt-000000 {
+    color: black;
+    font-family: 'Verdana', 'sans-serif';
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+h2.pt-000001 {
+    margin-top: 12pt;
+    margin-bottom: 6pt;
+    margin-left: 0;
+    text-indent: 0.00in;
+    text-align: left;
+    font-family: 'Verdana', 'sans-serif';
+    font-size: 11pt;
+    line-height: 108%;
+    margin-right: 0;
+}
+span.pt-000002 {
+    color: black;
+    font-family: 'Verdana', 'sans-serif';
+    font-size: 11pt;
+    font-style: normal;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+p.pt-Normal {
+    text-align: left;
+    font-family: Liberation Serif;
+    font-size: 12pt;
+    line-height: 108%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: .001pt;
+}
+span.pt-000003 {
+    color: black;
+    font-family: Liberation Serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+p.pt-000004 {
+    margin-top: 0;
+    line-height: 120.0%;
+    margin-bottom: 0;
+    margin-left: 0.60in;
+    text-indent: -0.30in;
+    text-align: left;
+    font-family: 'Times New Roman', 'serif';
+    font-size: 12pt;
+    margin-right: 0;
+}
+span.pt-000005 {
+    color: black;
+    font-family: Symbol;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-indent: 0;
+    width: 0.300in;
+}
+span.pt-000006 {
+    color: black;
+    font-family: 'Times New Roman', 'serif';
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+p.pt-000007 {
+    margin-left: 0.60in;
+    text-indent: -0.30in;
+    text-align: left;
+    font-family: Liberation Serif;
+    font-size: 12pt;
+    line-height: 108%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: .001pt;
+}
+a.pt-000008 {
+    text-decoration: none;
+}
+span.pt-000009 {
+    color: black;
+    font-family: Liberation Serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+span.pt-000010 {
+    color: black;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+p.pt-000011 {
+    margin-bottom: 40pt;
+    font-family: Liberation Serif;
+    font-size: 25pt;
+    line-height: 108%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+span.pt-000012 {
+    color: #FF0000;
+    font-family: 'Arial', 'sans-serif';
+    font-size: 25pt;
+    font-style: normal;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+span.pt-000013 {
+    color: #0000FF;
+    font-family: 'Times New Roman', 'serif';
+    font-size: 10pt;
+    font-style: italic;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+</style>
+  </head>
+  <body>
+    <div>
+      <h1
+        dir="ltr"
+        class="pt-Nagwek1">
+        <span
+          class="pt-000000">Example of Organization with Styles: Heading 1 is the Top Level of a Structured Document</span>
+      </h1>
+      <h2
+        dir="ltr"
+        class="pt-000001">
+        <span
+          class="pt-000002"></span>
+        <span
+          xml:space="preserve"
+          class="pt-000002">Heading 1: </span>
+        <span
+          lang="pl-PL"
+          class="pt-000002">PierwszaWstawkaBezSPacji_Znakmi!#$%^)&amp;()</span>
+        <span
+          xml:space="preserve"
+          class="pt-000002"> the Sections of this Document</span>
+      </h2>
+      <p
+        dir="ltr"
+        class="pt-Normal">
+        <span
+          class="pt-000003">Here is some information about the first heading 2. It gives some details and supports the general information contained within the paragraph.</span>
+      </p>
+      <h2
+        dir="ltr"
+        class="pt-000001">
+        <span
+          class="pt-000002"></span>
+        <span
+          class="pt-000002">Heading 2: Illustrated By A List Of Points</span>
+      </h2>
+      <p
+        dir="ltr"
+        class="pt-000004">
+        <span
+          class="pt-000005"></span>
+        <span
+          class="pt-000006">Point one</span>
+      </p>
+      <p
+        dir="ltr"
+        class="pt-000007">
+        <span
+          class="pt-000005"></span>
+        <a
+          id="__DdeLink__43_1740839610"
+          class="pt-000008"></a>
+        <span
+          lang="pl-PL"
+          xml:space="preserve"
+          class="pt-000009">Zwykły tekst </span>
+      </p>
+      <p
+        dir="ltr"
+        class="pt-000004">
+        <span
+          class="pt-000005"></span>
+        <span
+          class="pt-000006">Point three</span>
+      </p>
+      <h2
+        dir="ltr"
+        class="pt-000001">
+        <span
+          class="pt-000002"></span>
+        <span
+          class="pt-000002">Heading 3: A Point That Need A Graph To Support It</span>
+      </h2>
+      <p
+        dir="ltr"
+        class="pt-Normal">
+        <span
+          xml:space="preserve"
+          class="pt-000003">The following graph of “Completion Rate for Attempted Tasks” has used patterns, so people who are colorblind can distinguish the different regions (also helps if copied in black and white.) As illustrated in the following graph, North (solid yellow) has had a very steady year, being the most consistent performer completing </span>
+        <a
+          id="__DdeLink__67_1740839610"
+          class="pt-000008"></a>
+        <span
+          lang="pl-PL"
+          xml:space="preserve"
+          class="pt-000009">Zwykły tekst, dodany przez aplikację (      )   </span>
+        <span
+          xml:space="preserve"
+          class="pt-000003"> 40 percent of attempted tasks. East (diagonally striped) has performed at about half that rate (20%) every quarter except for the third quarter when it showed a peak of 90 percent completion rate. West (red &amp; white dots) has varied between 30 percent and 40 percent throughout the year.  Since I did not caption the graph, I have explained the results in my text. I can also use alternative text to offer a textual interpretation of the results.  This allows people who are not able to see the graph, to also understand the point I want to make.</span>
+      </p>
+      <p
+        dir="ltr"
+        class="pt-Normal">
+        <span
+          xml:space="preserve"
+          class="pt-000010"> </span>
+      </p>
+      <p
+        dir="ltr"
+        class="pt-Normal" />
+      <p
+        dir="ltr"
+        class="pt-000011">
+        <span
+          class="pt-000012">Przykładowy czerwony tekst dodany na końcu,</span>
+        <span
+          xml:space="preserve"
+          class="pt-000013"> zawierający dodatkowe inne niebieskie formatowanie</span>
+      </p>
+    </div>
+  </body>
+</html>
